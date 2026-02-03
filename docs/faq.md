@@ -47,7 +47,7 @@ npm run deploy
 Currently optimized for Cloudflare Workers. Community contributions for AWS/GCP are welcome.
 
 ### Is there a managed cloud option?
-Coming soon! Join our waitlist at spatial-os.io.
+Coming soon! Join our waitlist at spatial-os.org.
 
 ## Troubleshooting
 
